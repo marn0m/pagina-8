@@ -44,6 +44,79 @@ background-repeat: no-repeat;
     background-image: url("EXTERNA.jpg");
 float: left;
 background-repeat: no-repeat;
+}
 
+.imagen4{
+    height: 142px;
+    width: 380px;
+    background-image: url("configuracion\ 1.jpg");
+float: left;
+background-repeat: no-repeat;
 
+}
+.imagen5{
+    height: 468px;
+    width: 600px;
+    background-image: url("moeller.jpg");
+float: left;
+background-repeat: no-repeat;
+
+}
+.imagen6{
+    height: 245px;
+    width: 479px;
+    background-image: url("suma\ vertical.jpg");
+float: left;
+background-repeat: no-repeat;
+
+}
+.imagen7{
+    height: 238px;
+    width: 479px;
+    background-image: url("suma\ horizontal.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen8{
+    height: 400px;
+    width: 900px;
+    background-image: url("resta\ horizontal.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen9{
+    height: 179px;
+    width: 335px;
+    background-image: url("resta\ vertical.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen10{
+    height: 298px;
+    width: 666px;
+    background-image: url("multiplicación.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen11{
+    height: 269px;
+    width: 505px;
+    background-image: url("división.jpg");
+float: left;
+background-repeat: no-repeat;
+
+}
+.imagen12{
+    height: 333px;
+    width: 599px;
+    background-image: url("producto\ notable.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen13{
+    height: 372px;
+    width: 840px;
+    background-image: url("notable\ cubo.jpg");
+float: left;
+background-repeat: no-repeat;
 }
