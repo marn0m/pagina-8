@@ -17,8 +17,33 @@ body{
 
 }
 .imagen1{
-    height: 300px;
-    width: 300px;
+    height: 445px;
+    width: 799px;
     background-image: url("circuitos.jpg");
 float: left;
+background-repeat: no-repeat;
+}
+.titulo{
+font-size: 60px;
+color: black;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.imagen2{
+    height: 360px;
+    width: 642px;
+    background-image: url("INTERNA.jpg");
+float: left;
+background-repeat: no-repeat;
+
+}
+.imagen3{
+    height: 500px;
+    width: 1000px;
+    background-image: url("EXTERNA.jpg");
+float: left;
+background-repeat: no-repeat;
+
+
 }
