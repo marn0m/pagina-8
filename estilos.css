@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(241, 237, 237);
+    color: rgb(0, 0, 0);
 }
 .principal{
    display: flex;
@@ -119,4 +119,111 @@ background-repeat: no-repeat;
     background-image: url("notable\ cubo.jpg");
 float: left;
 background-repeat: no-repeat;
+}
+.imagen14{
+    height: 372px;
+    width: 840px;
+    background-image: url("transtornos.jpg");
+float: left;
+background-repeat: no-repeat;
+
+}
+.imagen15{
+    height: 400px;
+    width: 600px;
+    background-image: url("anorexia.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen16{
+    height: 400px;
+    width: 600px;
+    background-image: url("bulimia.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen17{
+    height: 435px;
+    width: 600px;
+    background-image: url("correr.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen18{
+    height: 319px;
+    width: 310px;
+    background-image: url("dieta.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen19{
+    height: 370px;
+    width: 627px;
+    background-image: url("agua.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen20{
+    height: 370px;
+    width: 343px;
+    background-image: url("dormir.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen21{
+    height: 370px;
+    width: 493px;
+    background-image: url("family.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen22{
+    height: 480px;
+    width: 493px;
+    background-image: url("meditar.jpg");
+float: left;
+background-repeat: no-repeat;
+}
+.imagen23{
+    height: 472px;
+    width: 630px;
+    background-image: url("dulces.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen24{
+    height: 472px;
+    width: 630px;
+    background-image: url("tv.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen25{
+    height: 472px;
+    width: 630px;
+    background-image: url("fumar.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen26{
+    height: 472px;
+    width: 630px;
+    background-image: url("alcohol.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen27{
+    height: 487px;
+    width: 666px;
+    background-image: url("chatarra.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen28{
+    height: 470px;
+    width: 666px;
+    background-image: url("zz.jpg");
+float: left;
+background-repeat: no-repeat; 
+
 }
