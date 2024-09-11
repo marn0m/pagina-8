@@ -265,3 +265,24 @@ background-repeat: no-repeat;
 float: left;
 background-repeat: no-repeat; 
 }
+.imagen34{
+    height: 291px;
+    width: 522px;
+    background-image: url("buscarv\ excel.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen35{
+    height: 287px;
+    width: 573px;
+    background-image: url("SI\ excel.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen36{
+    height: 287px;
+    width: 720px;
+    background-image: url("cont\ excel.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
