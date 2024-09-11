@@ -235,3 +235,33 @@ float: left;
 background-repeat: no-repeat; 
 
 }
+.imagen30{
+    height: 494px;
+    width: 2000px;
+    background-image: url("suma\ excel.jpg");
+float: left;
+background-repeat: no-repeat; 
+
+}
+.imagen31{
+    height: 343px;
+    width: 600px;
+    background-image: url("promedio\ excel.jpg");
+float: left;
+background-repeat: no-repeat; 
+
+}
+.imagen32{
+    height: 330px;
+    width: 490px;
+    background-image: url("max\ excel.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen33{
+    height: 330px;
+    width: 500px;
+    background-image: url("min\ excel.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
