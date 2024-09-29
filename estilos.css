@@ -280,9 +280,74 @@ float: left;
 background-repeat: no-repeat; 
 }
 .imagen36{
+
     height: 287px;
     width: 720px;
     background-image: url("cont\ excel.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen37{
+    
+    height: 350px;
+    width: 604px;
+    background-image: url("productos.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen38{
+    
+    height: 366px;
+    width: 610px;
+    background-image: url("suma\ por\ la\ diferencia.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen39{
+    
+    height: 353px;
+    width: 668px;
+    background-image: url("dos\ binomios.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen40{
+    
+    height: 375px;
+    width: 647px;
+    background-image: url("cua.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen41{
+    
+    height: 265px;
+    width: 453px;
+    background-image: url("sum.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen42{
+    
+    height: 450px;
+    width: 858px;
+    background-image: url("aa.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen43{
+    
+    height: 300px;
+    width: 516px;
+    background-image: url("cubo.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen44{
+    
+    height: 300px;
+    width: 580px;
+    background-image: url("fac.jpg");
 float: left;
 background-repeat: no-repeat; 
 }
