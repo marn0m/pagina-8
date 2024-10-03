@@ -228,9 +228,9 @@ background-repeat: no-repeat;
 
 }
 .imagen29{
-    height: 1000px;
-    width: 2000px;
-    background-image: url("foto.jpg");
+    height: 350px;
+    width: 450px;
+    background-image: url("arte.jpg");
 float: left;
 background-repeat: no-repeat; 
 
@@ -348,6 +348,46 @@ background-repeat: no-repeat;
     height: 300px;
     width: 580px;
     background-image: url("fac.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen45{
+    
+    height: 253px;
+    width: 300px;
+    background-image: url("fac\ comun.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen46{
+    
+    height: 353px;
+    width: 600px;
+    background-image: url("agru.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen47{
+    
+    height: 427px;
+    width: 910px;
+    background-image: url("dif.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen48{
+    
+    height: 150px;
+    width: 290px;
+    background-image: url("perf.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen49{
+    
+    height: 990px;
+    width: 1000px;
+    background-image: url("logo.jpg");
 float: left;
 background-repeat: no-repeat; 
 }
