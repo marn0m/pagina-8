@@ -383,11 +383,84 @@ background-repeat: no-repeat;
 float: left;
 background-repeat: no-repeat; 
 }
+
 .imagen49{
     
     height: 990px;
     width: 1000px;
     background-image: url("logo.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen50{
+    
+    height: 740px;
+    width: 1800px;
+    background-image: url("tri.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen51{
+    
+    height: 720px;
+    width: 1800px;
+    background-image: url("de.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen52{
+    
+    height: 720px;
+    width: 1800px;
+    background-image: url("cuboo.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen53{
+    
+    height: 300px;
+    width: 1800px;
+    background-image: url("ayuda.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen54{
+    
+    height: 546px;
+    width: 903px;
+    background-image: url("esc.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen55{
+    
+    height: 546px;
+    width: 903px;
+    background-image: url("ha.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen56{
+    
+    height: 546px;
+    width: 903px;
+    background-image: url("paz.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen57{
+    
+    height: 546px;
+    width: 903px;
+    background-image: url("var.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen58{
+    
+    height: 546px;
+    width: 903px;
+    background-image: url("ro.jpg");
 float: left;
 background-repeat: no-repeat; 
 }
