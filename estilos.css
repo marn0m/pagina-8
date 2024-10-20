@@ -227,14 +227,7 @@ float: left;
 background-repeat: no-repeat; 
 
 }
-.imagen29{
-    height: 350px;
-    width: 450px;
-    background-image: url("arte.jpg");
-float: left;
-background-repeat: no-repeat; 
 
-}
 .imagen30{
     height: 494px;
     width: 2000px;
@@ -549,6 +542,14 @@ background-repeat: no-repeat;
     height: 300px;
     width: 400px;
     background-image: url("cl.jpg");
+float: left;
+background-repeat: no-repeat; 
+}
+.imagen70{
+    
+    height: 1000px;
+    width: 1980px;
+    background-image: url("ftt.jpg");
 float: left;
 background-repeat: no-repeat; 
 }
